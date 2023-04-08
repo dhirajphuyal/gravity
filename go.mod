@@ -1,3 +1,3 @@
-module github.com/dhirajphuyal/gravity
+module gravity
 
 go 1.19
